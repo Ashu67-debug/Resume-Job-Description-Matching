@@ -1,0 +1,25 @@
+{
+  "accuracy": 0.4420871559633027,
+  "precision_macro": 0.2950114739257668,
+  "recall_macro": 0.42869782971619363,
+  "f1_macro": 0.3494659317878213,
+  "confusion_matrix": [
+    [
+      393,
+      0,
+      206
+    ],
+    [
+      237,
+      0,
+      308
+    ],
+    [
+      222,
+      0,
+      378
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n        Weak       0.46      0.66      0.54       599\n      Medium       0.00      0.00      0.00       545\n      Strong       0.42      0.63      0.51       600\n\n    accuracy                           0.44      1744\n   macro avg       0.30      0.43      0.35      1744\nweighted avg       0.30      0.44      0.36      1744\n",
+  "n_test_examples": 1744
+}
