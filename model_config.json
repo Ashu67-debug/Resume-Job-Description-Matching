@@ -1,0 +1,11 @@
+{
+  "vocab_size": 15000,
+  "max_len": 120,
+  "embed_dim": 96,
+  "lstm_units": 48,
+  "dense1_units": 128,
+  "dense2_units": 64,
+  "dropout": 0.3,
+  "num_classes": 3,
+  "learning_rate": 0.001
+}
